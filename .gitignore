@@ -12,3 +12,11 @@ venv/
 
 .DS_Store
 Thumbs.db
+
+.env
+
+uploads/*
+!uploads/.gitkeep
+
+frontend/node_modules/
+frontend/dist/
